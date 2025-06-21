@@ -22,3 +22,21 @@ Used the RAVDESS Emotional Speech Audio dataset (1440 files, 8 emotions):
 - Final test accuracy: **✅ 87.6%** (example)
 - Confusion matrix & classification report included
 
+---
+
+## 🎥 LinkedIn Video
+
+📌 [LinkedIn Video Demo](https://linkedin.com/in/your-link-here)  
+Explains dataset, model training, and real-time performance.
+
+## 📌 Submitted To
+
+This project was submitted as part of my **Machine Learning Internship** with **CodeAlpha** (June–July 2025).
+
+---
+
+## 🙋‍♀️ Author
+
+- **Nishat Fatima**
+- GitHub: [@nishatfatima](https://github.com/NishatFatima14)
+- LinkedIn: [Nishat Fatima](https://www.linkedin.com/in/nishat-fatima-ai-dev/)
