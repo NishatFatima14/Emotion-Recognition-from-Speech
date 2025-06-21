@@ -24,7 +24,7 @@ Used the RAVDESS Emotional Speech Audio dataset (1440 files, 8 emotions):
 
 ## 📊 Evaluation
 
-![Confusion Matrix](confusion_matrix.png) <!-- Optional if you saved the image -->
+![Confusion Matrix]("C:\Users\HP\PycharmProjects\Emotion_Recognition_from_Speech\Emotion Recognition from Speech\Confusion Matrix.PNG") 
 
 ## 📂 Project Structure
 
