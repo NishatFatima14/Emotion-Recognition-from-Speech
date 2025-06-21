@@ -22,9 +22,3 @@ Used the RAVDESS Emotional Speech Audio dataset (1440 files, 8 emotions):
 - Final test accuracy: **✅ 87.6%** (example)
 - Confusion matrix & classification report included
 
-## 📊 Evaluation
-
-![Confusion Matrix]("C:\Users\HP\PycharmProjects\Emotion_Recognition_from_Speech\Emotion Recognition from Speech\Confusion Matrix.PNG") 
-
-## 📂 Project Structure
-
